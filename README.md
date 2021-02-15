@@ -1,4 +1,5 @@
-# Hardware for implementing behavioural experiments using pyControl.
+# Hardware for implementing behavioural experiments using pyControl 
+# (Custom-made pellet dispenser and food-receptacle)
 
 <img src="Pellet-Dispenser-Design-Files/PD.jpeg" width="250" height="350">
 

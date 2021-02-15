@@ -1,6 +1,6 @@
 # Hardware for implementing behavioural experiments using pyControl.
 
-<img src="Pellet-Dispenser-Design-Files/PD.jpeg" width="324" height="324">
+<img src="Pellet-Dispenser-Design-Files/PD.jpeg" width="250" height="324">
 
 
 The folder contains design files of a custom-made pellet dispenser for delivering 20mg Dustless Precission Pellets (Bio-Serv) in behavioural experiments with mice. Built on a NEMA-17 stepper motor.
